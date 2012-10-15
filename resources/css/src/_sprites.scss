@@ -1,0 +1,16 @@
+// SPRITE SHEET EXAMPLE
+
+// .sprite {
+//     background: url($baseUrl+'img/shared/sprites.png') no-repeat 0 0;
+//     display:block;
+//     &.black-arrow{
+//         background-position: 0 0;
+//         width: 7px;
+//         height: 13px;
+//     }
+// }
+// example implementation in another file
+// .my-class{
+// 	@extend .sprite;
+// 	@extent .sprite.black-arrow;
+// }
