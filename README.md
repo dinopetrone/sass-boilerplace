@@ -22,7 +22,7 @@
 I'm normally in a python project, and am using fabric.  So I wrote up fabric scripts to watch and compress.  
 
 
-*. fab css.watch  
-or compressed:
-*. fab css.compile
+* fab css.watch  
+or compressed:  
+* fab css.compile
 
