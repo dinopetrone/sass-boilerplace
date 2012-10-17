@@ -31,10 +31,11 @@
 @import "thumbnails";
 
 
-// Utility classes
-@import "utilities"; // Has to be last to override when necessary
-
-
 // Page specific imports
 // src/_page-name-of-page.scss
 // @import "page-name-of-page";
+
+
+// Utility classes
+@import "utilities"; // Has to be last to override when necessary
+

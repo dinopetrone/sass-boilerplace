@@ -1,7 +1,7 @@
 //
 // Buttons
 // --------------------------------------------------
-
+// this is meant as a template.  Delete as you see fit
 
 // Base styles
 // --------------------------------------------------
@@ -10,11 +10,11 @@
 .btn {
   display: inline-block;
   @include ie7-inline-block();
-  
+
 
   // Hover state
   &:hover {
-    
+
   }
 
   // Focus state for keyboard and accessibility
@@ -25,13 +25,13 @@
   // Active state
   &.active,
   &:active {
-    
+
   }
 
   // Disabled state
   &.disabled,
   &[disabled] {
-    
+
   }
 
 }
